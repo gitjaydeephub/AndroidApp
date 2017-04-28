@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Final Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tr">TR</string>
+    <string name="title_activity_resultl">Resultl</string>
+    <string name="title_activity_preres">preres</string>
+</resources>

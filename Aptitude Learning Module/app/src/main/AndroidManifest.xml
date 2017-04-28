@@ -1,0 +1,47 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dhakad.aptitudetest">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Help"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".Questions"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".TestPage"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".logical1"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".SignUp"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".Verbal"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".Aptitude"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".Result"
+            android:label="@string/title_activity_result"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

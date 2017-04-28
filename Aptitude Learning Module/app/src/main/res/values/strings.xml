@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aptitude</string>
+    <string name="q1">Numbers And Simplification</string>
+    <string name="q2">Square Root And Cube Root</string>
+    <string name="q3">Average</string>
+    <string name="q4">Problem on Numbers And Ages</string>
+    <string name="q5">Percentage</string>
+    <string name="q6">Profit And Loss</string>
+    <string name="q7">Ratio And Proportion</string>
+    <string name="q8">Partnership</string>
+    <string name="q10">Time And Work And Distance</string>
+    <string name="q11">Problem On Trains,Boats And Streams</string>
+    <string name="q12">Simple Interest And Compound Interest</string>
+    <string name="q13">Area And Volume</string>
+    <string name="q15">Stocks And Shares</string>
+    <string name="q16">Permutation And Combination</string>
+    <string name="q17">Probability</string>
+
+    <string name="v1">Analogies </string>
+    <string name="v2">Selecting Words</string>
+    <string name="v3">Antonyms</string>
+    <string name="v4">One Word Substitution</string>
+    <string name="v5">Synonyms</string>
+    <string name="v6">Idioms And Phases</string>
+    <string name="v7">Spell Check</string>
+    <string name="v8">Ordering Of Sentences</string>
+    <string name="v9">Sentence Correction</string>
+
+    <string name="l1">Number And Letter Series</string>
+    <string name="l2">Blood Relation</string>
+    <string name="l3">Seating Arrangement</string>
+    <string name="l4">Statement Conclusion</string>
+    <string name="l5">Course Of Action</string>
+    <string name="l6">Data Sufficiency</string>
+    <string name="l7">Non Verbal</string>
+    <string name="l8">Mathematical Operation</string>
+    <string name="l9">Calendar</string>
+    <string name="l10">Clock</string>
+    <string name="l11">Cause And Effect</string>
+    <string name="l12">Vein Diagram</string>
+    <string name="l13">Direction</string>
+    <string name="l14">Syllogism</string>
+    <string name="title_activity_result">Result</string>
+</resources>
+
+
+
